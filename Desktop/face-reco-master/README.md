@@ -5,7 +5,7 @@ To run the above python code add .env file to outer directory and run app.py.
 Using localhost with user as "root" and password as "". Create database with name "face_reco" and table with name "infos".
 
 ## .env
-SECRET_KEY = "yashdmeniax"
+SECRET_KEY = "himanshu"
 
 CURSOR_CLASS = "DictCursor"
 
